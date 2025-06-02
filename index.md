@@ -4,63 +4,24 @@ layout: home
 nav_order: 1
 ---
 
-# Welcome to Hack the Hood: Build!
+# Welcome to Hack the Hood: Hustle OUSD!
 [Google Classroom](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0){: .btn .btn-blue }
 [Zoom Link](https://us06web.zoom.us/j/3435754269){: .btn .btn-purple }
 
-Welcome to the course website for Hack the Hood's Build Program for Fall 2024. We will be posting announcements, lecture slides, reminders, and additional resources here.
+Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
-Lectures: Mondays (4:30 pm-7:00 pm) and Wednesdays (4:00 pm-7:30 pm)  
-Thursday Tiger Teams: Red (3:00 pm-5:00 pm), Blue (4:00 pm-6:00 pm), Green (5:00 pm-7:00 pm), Purple (6:00 pm-8:00 pm)  
-Saturday Tiger Teams: Yellow (10:00 am-12:00 pm), Pink (11:00 am-1:00 pm), Gray (1:00 pm-3:00 pm), Orange (2:00 pm-4:00 pm)  
-Instructors: Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>) & Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)  
+Lectures: Mondays (10:00 am-12:30 pm) and Thursdays (10:00 am-12:30 pm)  
+Learning Labs: Mondays (12:30 pm-1:30 pm)   
+Tuesday Tiger Teams: team1 (10:00 am-12:00 pm), team2 (1:00 pm-3:00 pm), team3 (4:00 pm-6:00 pm) 
+Wednesday Tiger Teams: team4 (10:00 am-12:00 pm), team5 (1:00 pm-3:00 pm), team6 (4:00 pm-6:00 pm)
+Instructors: Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>), Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>)   
+TA: Cris Galo (<a href="mailto:example@example.com">cris@hackthehood.org</a>)
 
-## Week 11 Announcements
+## Week 1 Announcements
 ### Assignments Due:
-- Submit your third final project checkpoint on Google Classroom!
+- Fill out the pre-program survey!
 ### Reminders:
-- Catch up on any assignments you're missing on Google Classroom!
-- **RSVP for graduation [here](https://www.eventbrite.com/e/hack-the-hood-fall-graduation-tickets-1096463414589)!**
-- **FILL OUT THE POST-PROGRAM SURVEY [HERE](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2mz6eyUfuAdJsto)!**
-### Asynchronous Tiger Team Schedule
-<table>
-  <tr>
-    <td><b>Tiger Team Color - Instructor</b></td>
-    <td><b>New Async Tiger Team Time</b></td>
-  </tr>
-  <tr>
-    <td style="background-color: #FF7F7F;">Red Tiger Team - Parker</td>
-    <td style="background-color: #FF7F7F;">Mondays 4pm-6pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #ADD8E6;">Blue Tiger Team - Sydney</td>
-    <td style="background-color: #ADD8E6;">Wednesdays 4pm-6pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #90EE90;">Green Tiger Team - Parker</td>
-    <td style="background-color: #90EE90;">Tuesdays 6pm-8pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #D8BFD8;">Purple Tiger Team - Sydney</td>
-    <td style="background-color: #D8BFD8;">Mondays 4:30pm-6:30pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #F0E68C;">Yellow Tiger Team - Parker</td>
-    <td style="background-color: #F0E68C;">Wednesdays 5pm-7pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #FFB6C1;">Pink Tiger Team - Sydney</td>
-    <td style="background-color: #FFB6C1;">Tuesdays 5pm-7pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #D3D3D3;">Gray Tiger Team - Parker</td>
-    <td style="background-color: #D3D3D3;">Tuesdays 4pm-6pm</td>
-  </tr>
-  <tr>
-    <td style="background-color: #FFD580;">Orange Tiger Team - Sydney</td>
-    <td style="background-color: #FFD580;">Wednesdays 5pm-7pm</td>
-  </tr>
-</table>
+
 
 ---
 
