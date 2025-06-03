@@ -5,9 +5,11 @@ nav_order: 2
 ---
 
 # Program Overview
-Leverage your Python skills to learn about data science and how to identify, solve and answer problems using data! Our BUILD program will introduce learners to the basics of data science within a python programming environment. Builders will use Python libraries such as Numpy, Pandas, Jupyter Notebook, Matplotlib, and Scikit-Learn to perform structured data operations, visualize data, and even create simple machine learning algorithms. Our curriculum focuses on teaching these skills while also being mindful of data activism.
+Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood. 
 
-Data activism is when data skills are used to raise awareness or help address social justice issues. Through our socio-technical curriculum, builders will be exposed to many examples of technologists and activists who have gathered, analyzed or amplified data to address a topic of community concern. Learners will be exposed to some of the technologies that have been strategically used to disadvantage communities of color. They will deconstruct these technologies from both a social and technical perspective, then collaborate on ways to address some of the shortcomings of current technology.
+This program will teach you the fundamentals of Python, core skills in software development, and give you a primary understanding of data types and class structures, and sharpen your collaborative skills. The Hustle program balances lectures, career exposure panels with industry professionals, peer-to-peer learning, video tutorials, and workshops that will help you begin to see yourself in tech.  
+
+To bring your new skills to life, our unique #Tech4Justice curriculum will help ground your technical learning in current social justice topics and help you explore how to build solutions to social problems using technology.   
 
 ## Technical Content
 Builders will use Python coding skills to introduce themselves to data science concept. They will combine these skills to understand, define, and demonstrate data analytics processes and algorithms.
