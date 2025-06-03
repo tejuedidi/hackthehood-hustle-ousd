@@ -58,7 +58,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
   <tr>
     <td>Thurs 6/19:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Juneteeth - NO LECTURE!</b> </td>
+    <td><span class="label label-green">LECTURE</span> <b>Juneteenth - NO LECTURE!</b> </td>
     <td></td>
   </tr>
 </table>
