@@ -87,7 +87,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/30:</td>
     <td><span class="label label-green">LECTURE</span> Digital Cookie Crumbs, Iteration and Functions </td>
-    <td><a href="https://docs.google.com/presentation/d/1Edjh4RsgoiU5z63Dg5jS9uMVjBC4JGZtHV06un0DWBw/edit?usp=drive_link">Slides 1</a>, <a href="https://docs.google.com/presentation/d/1Xq75yElVioqx41YdTSS6NOhaMAy2_0tuM06RohFE1Qo/edit?usp=drive_link">Slides 2</a>, Python Functions Slides 3, Kahoot, Lab 4</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Edjh4RsgoiU5z63Dg5jS9uMVjBC4JGZtHV06un0DWBw/edit?usp=drive_link">Slides 1</a>, <a href="https://docs.google.com/presentation/d/1Xq75yElVioqx41YdTSS6NOhaMAy2_0tuM06RohFE1Qo/edit?usp=drive_link">Slides 2</a>, Python Functions Slides 3, Kahoot, Lab 4</td>
   </tr>
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
