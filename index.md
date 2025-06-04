@@ -35,12 +35,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Tues 6/10 or Wed 6/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Pre-Survey </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://docs.google.com/document/d/15R11_1XbZM_VbEQiuUthXFpsFUJHHMEk/edit?usp=drive_link&ouid=113721411826612220561&rtpof=true&sd=true">Lab 1</a></td>
   </tr>
   <tr>
     <td>Thurs 6/12:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop: Using Technology for Social Justice </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/11wWXySlliU9-WKduTIZ3GG7k9-4dcMYrL4VNWao4rtU/edit?usp=drive_link">Slides 1</a>, <a href="https://docs.google.com/presentation/d/1_lrvoxRQcVNkQiwZO-O3t41XYUOusyqWCKFMRT5IhVs/edit?usp=drive_link">Slides 2</a></td>
   </tr>
 </table>
 
@@ -49,12 +49,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/16:</td>
     <td><span class="label label-green">LECTURE</span> Getting Started with Python </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1Wqapli_LkVw7gNNu_P0JAWKCpQmPOllFo9dYbIcas_w/edit?usp=drive_link">Slides 1</a>, <a href="https://docs.google.com/document/d/1mMb1TLVZ8AW8-Sg_QliXmAdzjFBVm3P37K1YmywDog4/edit?usp=drive_link">Lab 2</a>, <a href="https://docs.google.com/presentation/d/1nez6t-QzL6MfQQsG1gCqdxMOUUyvEQxqp-sAxwYtGoA/edit?usp=drive_link">Slides 2</a>, Quizizz</td>
   </tr>
   <tr>
     <td>Tues 6/17 or Wed 6/18:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Initial Python Practice </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://docs.google.com/presentation/d/1okZcKLGeQfCtPmXMnKk2eT21j3avWrjMRiMhOJKGuvA/edit?usp=drive_link">Slides</a>, <a href="https://docs.google.com/document/d/1p4zXQnP3ubx3lLbecOM5NBjPsKx6K2shjyXLRUWKAgM/edit?usp=drive_link">Pseudocode Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 6/19:</td>
@@ -68,17 +68,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/23:</td>
     <td><span class="label label-green">LECTURE</span> Python Coding </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1HRM_YyrK3Cbr8NmH1JNTUNPIlVscxVINiwmtUawWhA4/edit?usp=drive_link">Slides 1</a>, <a href="https://docs.google.com/presentation/d/1NGMgRJE0yVpMBIxrS0MmM5JVMk90O_fWKgFEB6jlK-c/edit?usp=drive_link">Slides 2</a>, <a href="https://docs.google.com/presentation/d/1C-gNqCT5_f6zoGf6P2BAtTHOP9fYmRr-CDRCm7vDuXU/edit?usp=drive_link">Slides 3</a>, <a href="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=drive_link">Lab 3</a></td>
   </tr>
   <tr>
     <td>Tues 6/24 or Wed 6/25:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Python Functions </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, Kahoot, <a href="https://docs.google.com/document/d/1QXiWs-VxlEMqfdlKGGm9GuIhboXZms3aesA5GYXHPDA/edit?usp=drive_link">Building Functions Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 6/26:</td>
     <td><span class="label label-green">LECTURE</span> Career Exposure Panel + Technical Benevolence </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1YFhV7rapz0Vx8fQX6Z1TiZ7w9fDFfELRSRtlJEHpzWY/edit?usp=drive_link">Slides</a></td>
   </tr>
 </table>
 
@@ -87,17 +87,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/30:</td>
     <td><span class="label label-green">LECTURE</span> Digital Cookie Crumbs, Iteration and Functions </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1Edjh4RsgoiU5z63Dg5jS9uMVjBC4JGZtHV06un0DWBw/edit?usp=drive_link">Slides 1</a>, <a href="https://docs.google.com/presentation/d/1Xq75yElVioqx41YdTSS6NOhaMAy2_0tuM06RohFE1Qo/edit?usp=drive_link">Slides 2</a>, Python Functions Slides 3, Kahoot, Lab 4</a></td>
   </tr>
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Check-Ins + The Terminal Checklist </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">Terminal Checklist Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 7/3:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop + CheckIO </td>
-    <td></td>
+    <td><a href="https://py.checkio.org/">Py.CheckIO</a></td>
   </tr>
 </table>
 
