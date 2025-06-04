@@ -217,11 +217,3 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
     <td></td>
   </tr>
 </table>
-
-<a href="#" 
-       class="scrollbutton" 
-       id="scrollbuttonid">
-        Scroll to Top
-</a>
-
-<script src="script.js"></script>

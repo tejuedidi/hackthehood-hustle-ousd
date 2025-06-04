@@ -20,5 +20,5 @@ just_the_docs:
 
 just_the_docs:
   color_scheme:
-    light: "light"
+    # light: "light"
     dark: "dark"
