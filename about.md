@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 
-# Program Overview
+<h1>Program Overview</h1>  
 
 Hustle into tech with an introduction to foundational tech skills and career pathways at Hack the Hood.
 
