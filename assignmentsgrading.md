@@ -6,7 +6,7 @@ nav_order: 4
 <h1><b>Assignments & Grading</b></h1>
 
 <body>
-  <p>Students will be graded in six areas: Pre-Program Survey, Labs/Google Classroom Assignments,	Participation,	Attendance,	Post-Program Survey, and the Final Project</p>
+  <p>Students will be graded in six areas: Pre-Program Survey, Labs/Google Classroom Assignments,	Participation,	Attendance,	Post-Program Survey, and the Final Project.</p>
 
   <h1>Pre-Program Survey</h1>
     <p>The pre-program survey is needed from all learners and counts for $50 of your final stipend. The link to the survey will be posted here once it's been posted. </p>
