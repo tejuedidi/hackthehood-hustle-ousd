@@ -5,15 +5,15 @@ nav_order: 1
 ---
 
 # Welcome to Hack the Hood: Hustle OUSD!
-[Google Classroom](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0){: .btn .btn-blue }
-[Zoom Link](https://us06web.zoom.us/j/3435754269){: .btn .btn-purple }
+[Google Classroom](https://classroom.google.com/u/2/c/NzcyMTQ4NTUyMDgx){: .btn .btn-blue }
+[Zoom Link](https://us06web.zoom.us/j/87204423433){: .btn .btn-purple }
 
 Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
 **<u>Lectures</u>:** Mondays (10:00AM-12:30PM) and Thursdays (10:00AM-12:30PM)  
 **<u>Learning Labs</u>:** Mondays (12:30PM-1:30PM) <br/>
-**<u>Tuesday Tiger Teams</u>:** team1 (10:00AM-12:00PM), team2 (1:00PM-3:00PM), team3 (4:00PM-6:00PM) 
-**<u>Wednesday Tiger Teams</u>:** team4 (10:00AM-12:00PM), team5 (1:00PM-3:00PM), team6 (4:00PM-6:00PM)   
+**<u>Tuesday Tiger Teams</u>:** Red (10:00AM-12:00PM), Blue (1:00PM-3:00PM), Purple (4:00PM-6:00PM) 
+**<u>Wednesday Tiger Teams</u>:** Yellow (10:00AM-12:00PM), Green (1:00PM-3:00PM), Orange (4:00PM-6:00PM)   
 **Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>), Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>)   
 **TA**: Cris Galo (<a href="mailto:example@example.com">cris@hackthehood.org</a>)
 
@@ -22,6 +22,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 - Fill out the pre-program survey!
 ### Reminders:
 - Make sure you have access to Google Classroom, Slack, and the course website!
+- Make sure you have a Github account and VSCode downloaded!
 
 ---
 

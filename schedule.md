@@ -3,6 +3,8 @@ title: "Calendar"
 layout: home
 nav_order: 5
 ---
+<h1> Course Schedule </h1>
+
 <head>
   <title>Summer 2025 Hustle Schedule</title>
 </head>
