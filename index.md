@@ -106,17 +106,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/7:</td>
     <td><span class="label label-green">LECTURE</span> Understanding Errors + AI </td>
-    <td></td>
+    <td><a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit?slide=id.g11c5c36dcf0_0_309#slide=id.g11c5c36dcf0_0_309"></a></td>
   </tr>
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Code Error Clinic </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 7/10:</td>
     <td><span class="label label-green">LECTURE</span> Resume Building 101 + Misinformation Identification </td>
-    <td></td>
+    <td><a href ="https://docs.google.com/presentation/d/1KOru5dwvcp1PFKGRjdzh4jc6XptYSRXv86qWafNpCag/edit?slide=id.p#slide=id.p"></a></td>
   </tr>
 </table>
 
