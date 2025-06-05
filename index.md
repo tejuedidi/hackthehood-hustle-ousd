@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 # Welcome to Hack the Hood: Hustle OUSD!
-[Google Classroom](https://classroom.google.com/u/2/c/NjkxNTY0MzI4Njk0){: .btn .btn-blue }
-[Zoom Link](https://us06web.zoom.us/j/3435754269){: .btn .btn-purple }
+[Google Classroom](https://classroom.google.com/u/2/c/NzcyMTQ4NTUyMDgx){: .btn .btn-blue }
+[Zoom Link](https://us06web.zoom.us/j/87204423433){: .btn .btn-purple }
 
 Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
@@ -22,6 +22,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 - Fill out the pre-program survey!
 ### Reminders:
 - Make sure you have access to Google Classroom, Slack, and the course website!
+- Make sure you have a Github account and VSCode downloaded!
 
 ---
 
