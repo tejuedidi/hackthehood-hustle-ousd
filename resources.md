@@ -14,7 +14,7 @@ nav_order: 3
   </tr>
   <tr>
     <td>Program Overview</td>
-    <td><a href="https://sites.google.com/hackthehood.org/hthcurriculumresources/hustle-program-overview?authuser=0">Build Program Overview</a></td>
+    <td><a href="https://sites.google.com/hackthehood.org/hthcurriculumresources/hustle-program-overview?authuser=0">Hustle Program Overview</a></td>
   </tr>
 </table>
 
