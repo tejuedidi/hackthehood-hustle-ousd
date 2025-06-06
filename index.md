@@ -107,17 +107,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/7:</td>
     <td><span class="label label-green">LECTURE</span> Understanding Errors + AI </td>
-    <td>Kahoot, Capabilities and Limits of AI with ChatGPT Activity,<a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit">Slides</a>, Lab 5</td>
+    <td>Kahoot, Capabilities and Limits of AI with ChatGPT Activity,<a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit"> Slides</a>, Lab 5</td>
   </tr>
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Code Error Clinic </td>
-    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "https://docs.google.com/document/d/1219S3TLFlOc8cAYTa9rcDrr6qSVgYHA1K9--qXVXMVE/edit?tab=t.0#heading=h.sowqqhxvacxk"></a>Code Error Clinic</td>
   </tr>
   <tr>
     <td>Thurs 7/10:</td>
     <td><span class="label label-green">LECTURE</span> Resume Building 101 + Misinformation Identification </td>
-    <td><a href ="https://docs.google.com/presentation/d/1KOru5dwvcp1PFKGRjdzh4jc6XptYSRXv86qWafNpCag/edit?slide=id.p#slide=id.p"></a></td>
+    <td><a href ="https://docs.google.com/presentation/d/1D_5DFadTHp9gZHMEhqd1z0F4TvaCivu58gILDGhVc8Y/edit?slide=id.p#slide=id.p">Slides</a></td>
   </tr>
 </table>
 
@@ -126,17 +126,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/14:</td>
     <td><span class="label label-green">LECTURE</span> Watched but Unseen + Object Oriented Programming </td>
-    <td></td>
+    <td>Quizzizz, <a href = "https://docs.google.com/presentation/d/1CG3oQXSkzn-eFOC_k6IpBvGqg_k8R1vu5kL84FqqsRc/edit?slide=id.p#slide=id.p"> Slides 1</a>,<a href = "https://docs.google.com/presentation/d/1Y1GR2igMVVqA6WnI3xK_XZQq-Fo1GColbjSHYxus5d8/edit?slide=id.g125f38f1610_0_181#slide=id.g125f38f1610_0_181"> Slides 2</a>, <a href = "https://docs.google.com/document/d/1lscz8sUj4mInrma5BqRrl50HucymkD_8JJbM785rJUA/edit?tab=t.0#heading=h.iq2hfy8ep4e">, Lab 6</a></td>
   </tr>
   <tr>
     <td>Tues 7/15 or Wed 7/16:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Party Invitations </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/14CRENXtAtlVWYo0LB4OhPe-gN2Wd_HeWIsSIESXI8DE/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "https://docs.google.com/document/d/1Q-hDIvvjUWj3TULFG9KNE9XhHRntxX-r653niTjyqRQ/edit?tab=t.0">Party Invitations Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 7/17:</td>
     <td><span class="label label-green">LECTURE</span> Create a LinkedIn Profile + Code Quality </td>
-    <td></td>
+    <td><a href = "https://docs.google.com/presentation/d/1teAhY0a4p9iLVccESFw-yio4crBrbZEbQ7Or--OpNqE/edit?slide=id.g12282bad79e_0_176#slide=id.g12282bad79e_0_176">Slides</a></td>
   </tr>
 </table>
 
