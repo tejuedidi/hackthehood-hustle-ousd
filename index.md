@@ -107,7 +107,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/7:</td>
     <td><span class="label label-green">LECTURE</span> Understanding Errors + AI </td>
-    <td><a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit?slide=id.g11c5c36dcf0_0_309#slide=id.g11c5c36dcf0_0_309"></a></td>
+    <td>Kahoot, Capabilities and Limits of AI with ChatGPT Activity,<a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit">Slides</a>, Lab 5</td>
   </tr>
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
