@@ -107,12 +107,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/7:</td>
     <td><span class="label label-green">LECTURE</span> Understanding Errors + AI </td>
-    <td>Kahoot, Capabilities and Limits of AI with ChatGPT Activity,<a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit"> Slides</a>, Lab 5</td>
+    <td>Kahoot, Capabilities and Limits of AI with ChatGPT Activity, <a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit">Slides</a>, Lab 5</td>
   </tr>
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Code Error Clinic </td>
-    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "https://docs.google.com/document/d/1219S3TLFlOc8cAYTa9rcDrr6qSVgYHA1K9--qXVXMVE/edit?tab=t.0#heading=h.sowqqhxvacxk"></a>Code Error Clinic</td>
+    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides,</a><a href = "https://docs.google.com/document/d/1219S3TLFlOc8cAYTa9rcDrr6qSVgYHA1K9--qXVXMVE/edit?tab=t.0#heading=h.sowqqhxvacxk"></a> Code Error Clinic Activity</td>
   </tr>
   <tr>
     <td>Thurs 7/10:</td>
@@ -126,7 +126,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/14:</td>
     <td><span class="label label-green">LECTURE</span> Watched but Unseen + Object Oriented Programming </td>
-    <td>Quizzizz, <a href = "https://docs.google.com/presentation/d/1CG3oQXSkzn-eFOC_k6IpBvGqg_k8R1vu5kL84FqqsRc/edit?slide=id.p#slide=id.p"> Slides 1</a>,<a href = "https://docs.google.com/presentation/d/1Y1GR2igMVVqA6WnI3xK_XZQq-Fo1GColbjSHYxus5d8/edit?slide=id.g125f38f1610_0_181#slide=id.g125f38f1610_0_181"> Slides 2</a>, <a href = "https://docs.google.com/document/d/1lscz8sUj4mInrma5BqRrl50HucymkD_8JJbM785rJUA/edit?tab=t.0#heading=h.iq2hfy8ep4e">, Lab 6</a></td>
+    <td>Quizzizz, <a href = "https://docs.google.com/presentation/d/1CG3oQXSkzn-eFOC_k6IpBvGqg_k8R1vu5kL84FqqsRc/edit?slide=id.p#slide=id.p">Slides 1</a>, <a href = "https://docs.google.com/presentation/d/1Y1GR2igMVVqA6WnI3xK_XZQq-Fo1GColbjSHYxus5d8/edit?slide=id.g125f38f1610_0_181#slide=id.g125f38f1610_0_181">Slides 2</a>, <a href = "https://docs.google.com/document/d/1lscz8sUj4mInrma5BqRrl50HucymkD_8JJbM785rJUA/edit?tab=t.0#heading=h.iq2hfy8ep4e">Lab 6</a></td>
   </tr>
   <tr>
     <td>Tues 7/15 or Wed 7/16:</td>
@@ -135,7 +135,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
   <tr>
     <td>Thurs 7/17:</td>
-    <td><span class="label label-green">LECTURE</span> Create a LinkedIn Profile + Code Quality </td>
+    <td><span class="label label-green">LECTURE</span> Create a LinkedIn Profile + Code Quality</td>
     <td><a href = "https://docs.google.com/presentation/d/1teAhY0a4p9iLVccESFw-yio4crBrbZEbQ7Or--OpNqE/edit?slide=id.g12282bad79e_0_176#slide=id.g12282bad79e_0_176">Slides</a></td>
   </tr>
 </table>
@@ -145,17 +145,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/21:</td>
     <td><span class="label label-green">LECTURE</span> Data Driven Change + The Terminal </td>
-    <td></td>
+    <td>Kahoot, <a href = "https://docs.google.com/presentation/d/1YkX5duqBnUrDhkpzo3s7qfF7pM4luHC0COtDaIlrUzU/edit?slide=id.p#slide=id.p">Slides 1</a>, <a href = "https://docs.google.com/presentation/d/176Rs9AwTTlGT1qSEJUvuuC1fvGBSOhXtevr4ISY3JQk/edit">Slides 2</a>, <a href = "https://docs.google.com/document/d/1O_14_uqLSchNg0Dcfy_UxXhcqtkO_ZcFiJcZajSLBNc/edit?tab=t.0">Python CLI Flash Cards</a></td>
   </tr>
   <tr>
     <td>Tues 7/22 or Wed 7/23:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Python Guessing Game </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ecQmbAvW5TMz1tdJWLpvg5dbJ0F95i2MC_YHsWYXd04/edit?slide=id.p#slide=id.p">SCRUM Slides</a> ,<a href = "https://docs.google.com/document/d/1ZkI66dXw2Lo_10BWqIQMMYIL9dHFfcxC9xI0ktjO0DE/edit?tab=t.0#heading=h.9anwezb8wuy9">Capstone Prep</a></td>
   </tr>
   <tr>
     <td>Thurs 7/24:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop + Python Review </td>
-    <td></td>
+    <td>Kahoot</td>
   </tr>
 </table>
 
@@ -169,7 +169,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Tues 7/29 or Wed 7/30:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Pre-Async Check-Ins + Missing Activities </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">SCRUM Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 7/31:</td>
