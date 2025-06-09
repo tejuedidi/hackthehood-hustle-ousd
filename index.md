@@ -12,11 +12,41 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 
 **<u>Lectures</u>:** Mondays (10:00AM-12:30PM) and Thursdays (10:00AM-12:30PM)  
 **<u>Learning Labs</u>:** Mondays (12:30PM-1:30PM) <br/>
-**<u>Tuesday Tiger Teams</u>:** Red (10:00AM-12:00PM), Blue (1:00PM-3:00PM), Purple (4:00PM-6:00PM) 
-**<u>Wednesday Tiger Teams</u>:** Yellow (10:00AM-12:00PM), Green (1:00PM-3:00PM), Orange (4:00PM-6:00PM)   
 **Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>), Parker Broadnax (<a href="mailto:example@example.com">parker@hackthehood.org</a>)   
-**TA**: Cris Galo (<a href="mailto:example@example.com">cris@hackthehood.org</a>)
-
+**TA**: Cris Galo (<a href="mailto:example@example.com">cris@hackthehood.org</a>)  
+  
+## Tiger Team Schedule
+<table>
+  <tr>
+    <td><b>Tiger Team Color</b></td>
+    <td><b>Tiger Team Date and Time</b></td>
+  </tr>
+  <tr>
+    <td style="background-color: #FF7F7F;">Red Tiger Team</td>
+    <td style="background-color: #FF7F7F;">Tuesdays 10:00 AM-12:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ADD8E6;">Blue Tiger Team</td>
+    <td style="background-color: #ADD8E6;">Tuesdays 1:00 PM-3:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #D8BFD8;">Purple Tiger Team</td>
+    <td style="background-color: #D8BFD8;">Tuesdays 4:00 PM-6:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #F0E68C;">Yellow Tiger Team</td>
+    <td style="background-color: #F0E68C;">Wednesdays 10:00 AM-12:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #90EE90;">Green Tiger Team</td>
+    <td style="background-color: #90EE90;">Wednesdays 1:00 PM-3:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #FFD580;">Orange Tiger Team</td>
+    <td style="background-color: #FFD580;">Wednesdays 4:00 PM-6:00 PM</td>
+  </tr>
+</table>
+  
 ## Week 1 Announcements
 ### Assignments Due:
 - Fill out the pre-program survey!
