@@ -20,10 +20,13 @@ nav_order: 3
   </tr>
   <tr>
     <td>Student Handbook</td>
-    <td><a href="https://sites.google.com/hackthehood.org/hthsummer25/home/hustle?authuser=0"> Hustle Student Handbook</a></td>
-  </tr>le 
+    <td><a href="https://sites.google.com/hackthehood.org/hthsummer25/home/hustle?authuser=0">Hustle Student Handbook</a></td>
+  </tr> 
+  <tr>
+    <td>Google Drive</td>
+    <td><a href="https://drive.google.com/drive/folders/1uWipFH6dDgpuXsyInAxM0j8rhB4KwoXe?usp=sharing">Curriculum Google Drive</a></td>
+  </tr> 
 </table>
-
 ## Python Resources
 [Python Tutorial](https://docs.python.org/3/tutorial/index.html): A fairly comprehensive tutorial to review the basics of Python.   
 [NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/#numpy): A good refresher for NumPy.  
