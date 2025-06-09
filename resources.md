@@ -18,6 +18,10 @@ nav_order: 3
     <td>Program Overview</td>
     <td><a href="https://sites.google.com/hackthehood.org/hthcurriculumresources/hustle-program-overview?authuser=0">Hustle Program Overview</a></td>
   </tr>
+  <tr>
+    <td>Student Handbook</td>
+    <td><a href="https://sites.google.com/hackthehood.org/hthsummer25/home/hustle?authuser=0"> Hustle Student Handbook</a></td>
+  </tr>le 
 </table>
 
 ## Python Resources
