@@ -25,7 +25,11 @@ nav_order: 3
   <tr>
     <td>Google Drive</td>
     <td><a href="https://drive.google.com/drive/folders/1uWipFH6dDgpuXsyInAxM0j8rhB4KwoXe?usp=sharing">Curriculum Google Drive</a></td>
-  </tr> 
+  </tr>
+  <tr>
+    <td>Pre-program survey for Hustle OUSD</td>
+    <td><a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_868cbkmwljABiSO">Pre-program survey</a></td>
+  </tr>
 </table>
 ## Python Resources
 [Python Tutorial](https://docs.python.org/3/tutorial/index.html): A fairly comprehensive tutorial to review the basics of Python.   
