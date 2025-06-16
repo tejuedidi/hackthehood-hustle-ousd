@@ -50,7 +50,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 ## Week 2 Announcements
 ### Assignments Due:
 - Fill out the pre-program survey <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_868cbkmwljABiSO">here</a>.
-- Fill out the post-workshop survey <a href="https://docs.google.com/forms/d/e/1FAIpQLSfhrRhSwpM7OIyWjaEVKMitAVGs90TCRMSvjv3PfzcDKfP9EQ/viewform?authuser=2">here</a>.
+- Fill out the post-workshop survey <a href="https://classroom.google.com/c/NzcyMTQ4NTUyMDgx/a/NzgyMDc5MzQwNzUz/details">here</a>.
 - Submit your Github profile on Google Classroom!
 ### Reminders:
 - Make sure you have access to Google Classroom, Slack, and the course website!
