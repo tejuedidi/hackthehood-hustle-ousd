@@ -73,7 +73,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Thurs 6/12:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop: Using Technology for Social Justice </td>
-    <td><a href="https://docs.google.com/presentation/d/11wWXySlliU9-WKduTIZ3GG7k9-4dcMYrL4VNWao4rtU/edit?usp=drive_link">Using Tech for Social Justice Slides</a>, <a href="https://docs.google.com/presentation/d/1_lrvoxRQcVNkQiwZO-O3t41XYUOusyqWCKFMRT5IhVs/edit?usp=drive_link">Stages of SDLC Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/11wWXySlliU9-WKduTIZ3GG7k9-4dcMYrL4VNWao4rtU/edit?usp=drive_link">Using Tech for Social Justice Slides</a></td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/16:</td>
     <td><span class="label label-green">LECTURE</span> Getting Started with Python </td>
-    <td><a href="https://docs.google.com/presentation/d/1Wqapli_LkVw7gNNu_P0JAWKCpQmPOllFo9dYbIcas_w/edit?usp=drive_link">Getting Started with Python Slides</a>, <a href="https://docs.google.com/document/d/1mMb1TLVZ8AW8-Sg_QliXmAdzjFBVm3P37K1YmywDog4/edit?usp=drive_link">Lab 2</a>, <a href="https://docs.google.com/presentation/d/1nez6t-QzL6MfQQsG1gCqdxMOUUyvEQxqp-sAxwYtGoA/edit?usp=drive_link">Rejecting the Binary Slides</a>, Quizizz</td>
+    <td><a href="https://docs.google.com/presentation/d/1_lrvoxRQcVNkQiwZO-O3t41XYUOusyqWCKFMRT5IhVs/edit?usp=drive_link">Stages of SDLC Slides</a>, <a href="https://docs.google.com/presentation/d/1Wqapli_LkVw7gNNu_P0JAWKCpQmPOllFo9dYbIcas_w/edit?usp=drive_link">Getting Started with Python Slides</a>, <a href="https://docs.google.com/presentation/d/1nez6t-QzL6MfQQsG1gCqdxMOUUyvEQxqp-sAxwYtGoA/edit?usp=drive_link">Rejecting the Binary Slides</a>, Quizizz, <a href="https://docs.google.com/document/d/1mMb1TLVZ8AW8-Sg_QliXmAdzjFBVm3P37K1YmywDog4/edit?usp=drive_link">Lab 2</a></td>
   </tr>
   <tr>
     <td>Tues 6/17 or Wed 6/18:</td>
