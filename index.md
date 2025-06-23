@@ -47,14 +47,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
 </table>
   
-## Week 2 Announcements
+## Week 3 Announcements
 ### Assignments Due:
-- Fill out the pre-program survey <a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_868cbkmwljABiSO">here</a>.
+- Submit any missing Week 2 assignments.
 - Fill out the post-workshop survey <a href="https://classroom.google.com/c/NzcyMTQ4NTUyMDgx/a/NzgyMDc5MzQwNzUz/details">here</a>.
-- Submit your Github profile on Google Classroom!
 ### Reminders:
-- Make sure you have access to Google Classroom, Slack, and the course website!
-- Make sure you have a Github account and VSCode, Python, and Git downloaded!
+- Prepare questions for the Career Exposure Panel on Thursday!
 
 ---
 
@@ -101,12 +99,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/23:</td>
     <td><span class="label label-green">LECTURE</span> Python Coding </td>
-    <td><a href="https://docs.google.com/presentation/d/1HRM_YyrK3Cbr8NmH1JNTUNPIlVscxVINiwmtUawWhA4/edit?usp=drive_link">Tech Industry 101 Slides</a>, <a href="https://docs.google.com/presentation/d/1NGMgRJE0yVpMBIxrS0MmM5JVMk90O_fWKgFEB6jlK-c/edit?usp=drive_link">Data Structures Slides</a>, <a href="https://docs.google.com/presentation/d/1C-gNqCT5_f6zoGf6P2BAtTHOP9fYmRr-CDRCm7vDuXU/edit?usp=drive_link">Python Operators Slides</a>, <a href="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=drive_link">Lab 3</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1HRM_YyrK3Cbr8NmH1JNTUNPIlVscxVINiwmtUawWhA4/edit?usp=drive_link">Tech Industry 101 Slides</a>, <a href="https://docs.google.com/presentation/d/1NGMgRJE0yVpMBIxrS0MmM5JVMk90O_fWKgFEB6jlK-c/edit?usp=drive_link">Data Structures Slides</a>, <a href="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=drive_link">Lab 3</a></td>
   </tr>
   <tr>
     <td>Tues 6/24 or Wed 6/25:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Python Functions </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, Kahoot, <a href="https://docs.google.com/document/d/1QXiWs-VxlEMqfdlKGGm9GuIhboXZms3aesA5GYXHPDA/edit?usp=drive_link">Building Functions Activity</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, Kahoot, <a href="https://docs.google.com/presentation/d/1C-gNqCT5_f6zoGf6P2BAtTHOP9fYmRr-CDRCm7vDuXU/edit?usp=drive_link">Python Operators Slides</a>, <a href="https://docs.google.com/document/d/1QXiWs-VxlEMqfdlKGGm9GuIhboXZms3aesA5GYXHPDA/edit?usp=drive_link">Building Functions Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 6/26:</td>
