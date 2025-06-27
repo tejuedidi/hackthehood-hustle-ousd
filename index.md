@@ -47,12 +47,13 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
 </table>
   
-## Week 3 Announcements
+## Week 4 Announcements
 ### Assignments Due:
-- Submit any missing Week 2 assignments.
-- Fill out the post-workshop survey <a href="https://classroom.google.com/c/NzcyMTQ4NTUyMDgx/a/NzgyMDc5MzQwNzUz/details">here</a>.
+- Submit any missing assignments.   
+- Submit Lab 4!
+- Submit the CRUD functions assignment!
 ### Reminders:
-- Prepare questions for the Career Exposure Panel on Thursday!
+- Prepare for mid-synchronous 1-on-1 check-ins with your TI during Tiger Teams.
 
 ---
 
@@ -118,17 +119,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 6/30:</td>
     <td><span class="label label-green">LECTURE</span> Digital Cookie Crumbs, Iteration and Functions </td>
-    <td><a href="https://docs.google.com/presentation/d/1Edjh4RsgoiU5z63Dg5jS9uMVjBC4JGZtHV06un0DWBw/edit?usp=drive_link">Digital Cookiecrumbs Slides</a>, <a href="https://docs.google.com/presentation/d/1Xq75yElVioqx41YdTSS6NOhaMAy2_0tuM06RohFE1Qo/edit?usp=drive_link">Python Iteration Slides</a>, Python Functions Slides, Kahoot, Lab 4</td>
+    <td><a href="https://docs.google.com/presentation/d/1Xq75yElVioqx41YdTSS6NOhaMAy2_0tuM06RohFE1Qo/edit?usp=drive_link">Python Iteration Slides</a>, Python Functions Slides, Kahoot, <a href="https://docs.google.com/document/d/1usollOl3mkJW4g1QT6B6xSTH78uRQhab05SIzptbjZU/edit?usp=sharing">Lab 4</td>
   </tr>
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Check-Ins + The Terminal Checklist </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">Terminal Checklist Activity</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://py.checkio.org/">Py.CheckIO</a>, <a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">Terminal Checklist Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 7/3:</td>
     <td><span class="label label-green">LECTURE</span> Identity Development Workshop + CheckIO </td>
-    <td><a href="https://py.checkio.org/">Py.CheckIO</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Edjh4RsgoiU5z63Dg5jS9uMVjBC4JGZtHV06un0DWBw/edit?usp=drive_link">Digital Cookiecrumbs Slides</a></td>
   </tr>
 </table>
 
