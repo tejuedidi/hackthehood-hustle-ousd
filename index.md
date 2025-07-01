@@ -124,11 +124,11 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Tues 7/1 or Wed 7/2:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Check-Ins + The Terminal Checklist </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://py.checkio.org/">Py.CheckIO</a>, <a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">Terminal Checklist Activity</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, <a href="https://py.checkio.org/">Py.CheckIO</a>, <a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">CRUD Operations Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 7/3:</td>
-    <td><span class="label label-green">LECTURE</span> Identity Development Workshop + CheckIO </td>
+    <td><span class="label label-green">LECTURE</span> Identity Development Workshop + Digital Cookie Crumbs </td>
     <td><a href="https://docs.google.com/presentation/d/1Edjh4RsgoiU5z63Dg5jS9uMVjBC4JGZtHV06un0DWBw/edit?usp=drive_link">Digital Cookiecrumbs Slides</a></td>
   </tr>
 </table>
