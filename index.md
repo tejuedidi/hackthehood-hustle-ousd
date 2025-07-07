@@ -47,13 +47,13 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
 </table>
   
-## Week 4 Announcements
+## Week 5 Announcements
 ### Assignments Due:
 - Submit any missing assignments.   
-- Submit Lab 4!
-- Submit the CRUD functions assignment!
+- Submit Lab 5!
+- Submit the Debugging Activity!
 ### Reminders:
-- Prepare for mid-synchronous 1-on-1 check-ins with your TI during Tiger Teams.
+- None!
 
 ---
 
@@ -138,7 +138,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/7:</td>
     <td><span class="label label-green">LECTURE</span> Understanding Errors + AI </td>
-    <td>Kahoot, Capabilities and Limits of AI with ChatGPT Activity, <a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit">Understanding Errors Slides</a>, Kahoot, <a href = "https://docs.google.com/document/d/1O7qfCtiiN4krXHf3htByGXpl8vuVdxvd9vIpntRmmio/edit?usp=sharing">Lab 5</a></td>
+    <td>Kahoot, <a href = "https://docs.google.com/document/d/1Hku1nnj0l5Od864iOXfTnL3ViWlyB4L4flfRcv-X3c8/edit?usp=sharing">Capabilities and Limits of AI with ChatGPT Activity</a>, <a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit">Understanding Errors Slides</a>, Kahoot, <a href = "https://docs.google.com/document/d/1O7qfCtiiN4krXHf3htByGXpl8vuVdxvd9vIpntRmmio/edit?usp=sharing">Lab 5</a></td>
   </tr>
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
