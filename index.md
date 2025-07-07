@@ -12,7 +12,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 
 **<u>Lectures</u>:** Mondays (10:00AM-12:30PM) and Thursdays (10:00AM-12:30PM)  
 **<u>Learning Labs</u>:** Mondays (12:30PM-1:30PM) <br/>
-**Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)
+**Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)   
 **TA**: Cris Galo (<a href="mailto:example@example.com">cris@hackthehood.org</a>)  
   
 ## Tiger Team Schedule
