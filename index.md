@@ -143,7 +143,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Tues 7/8 or Wed 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Code Error Clinic </td>
-    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides,</a><a href = "https://docs.google.com/document/d/1219S3TLFlOc8cAYTa9rcDrr6qSVgYHA1K9--qXVXMVE/edit?tab=t.0#heading=h.sowqqhxvacxk">Code Error Clinic Activity</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides,</a><a href = "https://docs.google.com/document/d/1cbxjl2JtWCOga6dMZs8lJBUzsKioeYxS3gJhWgGaFtI/edit?usp=sharing">Code Error Clinic Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 7/10:</td>
