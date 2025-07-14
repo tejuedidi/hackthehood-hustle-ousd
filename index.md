@@ -47,13 +47,15 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
 </table>
   
-## Week 5 Announcements
+## Week 6 Announcements
 ### Assignments Due:
 - Submit any missing assignments.   
-- Submit Lab 5!
-- Submit the Debugging Activity!
+- Submit Lab 6!
+- Complete the [Resume Building Post-Workshop Survey](https://classroom.google.com/c/NzcyMTQ4NTUyMDgx/a/Nzg5MDMxNzE0NDAz/details).
 ### Reminders:
-- None!
+- Fill out [this Google form](https://forms.gle/6YoxaLowWwfnDwA28) to prepare for Thursday's LinkedIn workshop panel.
+- Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfK7HmOFE11wf4GfbWJvOfi0N4wSNnLjDgfCXOGPEwH0fqRWQ/viewform?usp=header) to prep for the Github field trip on Thursday, July 31st!
+- Check your email inbox, Google Classroom, and this website so you don't miss any announcements!
 
 ---
 
@@ -157,12 +159,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/14:</td>
     <td><span class="label label-green">LECTURE</span> Watched but Unseen + Object Oriented Programming </td>
-    <td>Quizzizz, <a href = "https://docs.google.com/presentation/d/1CG3oQXSkzn-eFOC_k6IpBvGqg_k8R1vu5kL84FqqsRc/edit?slide=id.p#slide=id.p">2021 Watched but Unseen Slides</a>, <a href = "https://docs.google.com/presentation/d/1Y1GR2igMVVqA6WnI3xK_XZQq-Fo1GColbjSHYxus5d8/edit?slide=id.g125f38f1610_0_181#slide=id.g125f38f1610_0_181">Object Oriented Programming Slides</a>, <a href = "https://docs.google.com/document/d/1lscz8sUj4mInrma5BqRrl50HucymkD_8JJbM785rJUA/edit?tab=t.0#heading=h.iq2hfy8ep4e">Lab 6</a></td>
+    <td>Quizzizz, <a href = "https://docs.google.com/presentation/d/1CG3oQXSkzn-eFOC_k6IpBvGqg_k8R1vu5kL84FqqsRc/edit?slide=id.p#slide=id.p">2021 Watched but Unseen Slides</a>, <a href = "https://docs.google.com/presentation/d/1Y1GR2igMVVqA6WnI3xK_XZQq-Fo1GColbjSHYxus5d8/edit?slide=id.g125f38f1610_0_181#slide=id.g125f38f1610_0_181">Object Oriented Programming Slides</a>, <a href = "https://docs.google.com/document/d/18EQTZSa-N8yZqH08EEujNSL4GycdnLsS3T6bEhSuWKA/edit?usp=sharing">Lab 6</a></td>
   </tr>
   <tr>
     <td>Tues 7/15 or Wed 7/16:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Party Invitations </td>
-    <td><a href="https://docs.google.com/presentation/d/14CRENXtAtlVWYo0LB4OhPe-gN2Wd_HeWIsSIESXI8DE/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "https://docs.google.com/document/d/1Q-hDIvvjUWj3TULFG9KNE9XhHRntxX-r653niTjyqRQ/edit?tab=t.0">Party Invitations Activity</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Continuation of Lab 6 </td>
+    <td><a href="https://docs.google.com/presentation/d/14CRENXtAtlVWYo0LB4OhPe-gN2Wd_HeWIsSIESXI8DE/edit?slide=id.p#slide=id.p">SCRUM Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 7/17:</td>
