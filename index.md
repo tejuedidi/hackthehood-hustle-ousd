@@ -178,7 +178,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Mon 7/21:</td>
     <td><span class="label label-green">LECTURE</span> Data Driven Change + The Terminal </td>
-    <td>Kahoot, <a href = "https://docs.google.com/presentation/d/1YkX5duqBnUrDhkpzo3s7qfF7pM4luHC0COtDaIlrUzU/edit?slide=id.p#slide=id.p">Data-Driven Change Advocacy Slides</a>, <a href = "https://docs.google.com/presentation/d/176Rs9AwTTlGT1qSEJUvuuC1fvGBSOhXtevr4ISY3JQk/edit">Understanding Your Work Environment Slides</a>, <a href = "https://docs.google.com/document/d/1O_14_uqLSchNg0Dcfy_UxXhcqtkO_ZcFiJcZajSLBNc/edit?tab=t.0">Python CLI Flash Cards</a></td>
+    <td>Kahoot, <a href = "https://docs.google.com/presentation/d/1YkX5duqBnUrDhkpzo3s7qfF7pM4luHC0COtDaIlrUzU/edit?slide=id.p#slide=id.p">Data-Driven Change Advocacy Slides</a>, <a href = "https://docs.google.com/presentation/d/176Rs9AwTTlGT1qSEJUvuuC1fvGBSOhXtevr4ISY3JQk/edit">Understanding Your Work Environment Slides</a>, <a href = "https://docs.google.com/document/d/1O_14_uqLSchNg0Dcfy_UxXhcqtkO_ZcFiJcZajSLBNc/edit?tab=t.0">Lab 7</a></td>
   </tr>
   <tr>
     <td>Tues 7/22 or Wed 7/23:</td>
