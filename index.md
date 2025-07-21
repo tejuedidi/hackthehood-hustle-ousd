@@ -47,14 +47,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
 </table>
   
-## Week 6 Announcements
+## Week 7 Announcements
 ### Assignments Due:
 - Submit any missing assignments.   
-- Submit Lab 6!
-- Complete the [Resume Building Post-Workshop Survey](https://classroom.google.com/c/NzcyMTQ4NTUyMDgx/a/Nzg5MDMxNzE0NDAz/details).
+- Submit Lab 7!
+- Complete the [Asynchronous Tiger Team Scheduling form](https://forms.gle/hNHBuktCxPiKVKJj8)!
 ### Reminders:
-- Fill out [this Google form](https://forms.gle/6YoxaLowWwfnDwA28) to prepare for Thursday's LinkedIn workshop panel.
-- Fill out [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfK7HmOFE11wf4GfbWJvOfi0N4wSNnLjDgfCXOGPEwH0fqRWQ/viewform?usp=header) to prep for the Github field trip on Thursday, July 31st!
 - Check your email inbox, Google Classroom, and this website so you don't miss any announcements!
 
 ---
