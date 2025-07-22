@@ -181,7 +181,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>Tues 7/22 or Wed 7/23:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Python Guessing Game </td>
-    <td><a href="https://docs.google.com/presentation/d/1ecQmbAvW5TMz1tdJWLpvg5dbJ0F95i2MC_YHsWYXd04/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "https://docs.google.com/document/d/1ZkI66dXw2Lo_10BWqIQMMYIL9dHFfcxC9xI0ktjO0DE/edit?tab=t.0#heading=h.9anwezb8wuy9">Capstone Prep</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1ecQmbAvW5TMz1tdJWLpvg5dbJ0F95i2MC_YHsWYXd04/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "https://docs.google.com/document/d/1ZkI66dXw2Lo_10BWqIQMMYIL9dHFfcxC9xI0ktjO0DE/edit?tab=t.0#heading=h.9anwezb8wuy9">Python Guessing Game</a></td>
   </tr>
   <tr>
     <td>Thurs 7/24:</td>
