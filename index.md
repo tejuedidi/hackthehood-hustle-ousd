@@ -218,7 +218,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 1 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
 </table>
 
@@ -227,7 +227,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 2 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
 </table>
 
@@ -236,7 +236,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 3 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
 </table>
 
@@ -245,7 +245,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 4 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
   <tr>
     <td>Fri 8/29:</td>
