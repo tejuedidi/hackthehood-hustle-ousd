@@ -15,7 +15,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 **Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Sydney Ly (<a href="mailto:example@example.com">sydney@hackthehood.org</a>)   
 **TA**: Cris Galo (<a href="mailto:example@example.com">cris@hackthehood.org</a>)  
   
-## Tiger Team Schedule
+## Asynchronous Tiger Team Schedule - Check your Google Calendar and email!
 <table>
   <tr>
     <td><b>Tiger Team Color</b></td>
@@ -23,37 +23,41 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
   <tr>
     <td style="background-color: #FF7F7F;">Red Tiger Team</td>
-    <td style="background-color: #FF7F7F;">Tuesdays 10:00 AM-12:00 PM</td>
-  </tr>
-  <tr>
-    <td style="background-color: #ADD8E6;">Blue Tiger Team</td>
-    <td style="background-color: #ADD8E6;">Tuesdays 1:00 PM-3:00 PM</td>
-  </tr>
-  <tr>
-    <td style="background-color: #D8BFD8;">Purple Tiger Team</td>
-    <td style="background-color: #D8BFD8;">Tuesdays 4:00 PM-6:00 PM</td>
-  </tr>
-  <tr>
-    <td style="background-color: #F0E68C;">Yellow Tiger Team</td>
-    <td style="background-color: #F0E68C;">Wednesdays 10:00 AM-12:00 PM</td>
-  </tr>
-  <tr>
-    <td style="background-color: #90EE90;">Green Tiger Team</td>
-    <td style="background-color: #90EE90;">Wednesdays 1:00 PM-3:00 PM</td>
+    <td style="background-color: #FF7F7F;">Mondays 4:00 PM-6:00 PM</td>
   </tr>
   <tr>
     <td style="background-color: #FFD580;">Orange Tiger Team</td>
-    <td style="background-color: #FFD580;">Wednesdays 4:00 PM-6:00 PM</td>
+    <td style="background-color: #FFD580;">Mondays 6:00 PM-8:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #F0E68C;">Yellow Tiger Team</td>
+    <td style="background-color: #F0E68C;">Tuesdays 6:00 PM-8:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #D8BFD8;">Purple Tiger Team</td>
+    <td style="background-color: #D8BFD8;">Wednesdays 4:00 PM-6:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #90EE90;">Green Tiger Team</td>
+    <td style="background-color: #90EE90;">Wednesdays 6:00 PM-8:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ADD8E6;">Blue Tiger Team</td>
+    <td style="background-color: #ADD8E6;">Thursdays 4:00 PM-6:00 PM</td>
+  </tr>
+  <tr>
+    <td style="background-color: #FFDBE9;">Pink Tiger Team</td>
+    <td style="background-color: #FFDBE9;">Thursdays 6:00 PM-8:00 PM</td>
   </tr>
 </table>
   
-## Week 7 Announcements
+## Week 9 Announcements
 ### Assignments Due:
-- Submit any missing assignments.   
-- Submit Lab 7!
+- Submit any missing assignments.
 - Complete the [Asynchronous Tiger Team Scheduling form](https://forms.gle/hNHBuktCxPiKVKJj8)!
+- Submit your Week 1 Final Project Check-in on Google Classroom!
 ### Reminders:
-- Check your email inbox, Google Classroom, and this website so you don't miss any announcements!
+- Brainstorm with your group for your final project!
 
 ---
 
@@ -214,7 +218,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 1 </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
   </tr>
 </table>
 
@@ -223,7 +227,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 2 </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
   </tr>
 </table>
 
@@ -232,7 +236,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 3 </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
   </tr>
 </table>
 
@@ -241,7 +245,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 4 </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a></td>
   </tr>
   <tr>
     <td>Fri 8/29:</td>
