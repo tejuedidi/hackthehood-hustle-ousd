@@ -8,7 +8,7 @@ nav_order: 1
 [Google Classroom](https://classroom.google.com/u/2/c/NzcyMTQ4NTUyMDgx){: .btn .btn-blue }
 [Zoom Link](https://us06web.zoom.us/j/87204423433){: .btn .btn-purple }
 [Final Project Google Drive](https://drive.google.com/drive/folders/1y8mqlNCvfz6W7tDtHzU6Ppk32NZIdsWE?usp=sharing){: .btn .btn-green }
-[Github Classroom](https://classroom.github.com/classrooms/219958920-hustle-ousd-classroom/assignments/hustle-ousd-final-projects){: .btn .btn-pink }
+[Github Classroom](https://classroom.github.com/classrooms/219958920-hustle-ousd-classroom/assignments/hustle-ousd-final-projects){: .btn .btn-outline }
 
 Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
