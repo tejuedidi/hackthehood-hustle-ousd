@@ -7,6 +7,8 @@ nav_order: 1
 # Welcome to Hack the Hood: Hustle OUSD!
 [Google Classroom](https://classroom.google.com/u/2/c/NzcyMTQ4NTUyMDgx){: .btn .btn-blue }
 [Zoom Link](https://us06web.zoom.us/j/87204423433){: .btn .btn-purple }
+[Final Project Google Drive](https://drive.google.com/drive/folders/1y8mqlNCvfz6W7tDtHzU6Ppk32NZIdsWE?usp=sharing){: .btn .btn-green }
+[Github Classroom](https://classroom.github.com/classrooms/219958920-hustle-ousd-classroom/assignments/hustle-ousd-final-projects){: .btn .btn-pink }
 
 Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer 2025. We will be posting announcements, lecture slides, reminders, and additional resources here.
 
@@ -218,7 +220,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 1 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
+    <td><a href="https://docs.google.com/document/d/1c4HJrI0NznSH4pKzlHUjh5UmpzvB6r6ILuEHPCSY8BU/edit?usp=sharing">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
 </table>
 
@@ -227,7 +229,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 2 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
+    <td><a href="https://docs.google.com/document/d/1c4HJrI0NznSH4pKzlHUjh5UmpzvB6r6ILuEHPCSY8BU/edit?usp=sharing">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
 </table>
 
@@ -236,7 +238,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 3 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
+    <td><a href="https://docs.google.com/document/d/1c4HJrI0NznSH4pKzlHUjh5UmpzvB6r6ILuEHPCSY8BU/edit?usp=sharing">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
 </table>
 
@@ -245,7 +247,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 4 </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
+    <td><a href="https://docs.google.com/document/d/1c4HJrI0NznSH4pKzlHUjh5UmpzvB6r6ILuEHPCSY8BU/edit?usp=sharing">Final Project Doc</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaTdiRTmGK27ju6TrZZN-ECdPepp0hZCf8nOxmTKfjby3K_g/viewform?usp=sharing&ouid=113721411826612220561">Weekly Check-In</a></td>
   </tr>
   <tr>
     <td>Fri 8/29:</td>
