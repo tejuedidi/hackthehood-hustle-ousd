@@ -53,13 +53,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
   </tr>
 </table>
   
-## Week 9 Announcements
+## Week 11 Announcements
 ### Assignments Due:
-- Submit any missing assignments.
-- Complete the [Asynchronous Tiger Team Scheduling form](https://forms.gle/hNHBuktCxPiKVKJj8)!
-- Submit your Week 1 Final Project Check-in on Google Classroom!
+- Continue working on your Final Project!
+- Submit your Week 3 Final Project Check-in on Google Classroom!
 ### Reminders:
-- Brainstorm with your group for your final project!
+- RSVP for graduation [here](https://lu.ma/0fjpg7kj)!
 
 ---
 
