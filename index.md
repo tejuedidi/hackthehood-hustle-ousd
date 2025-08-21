@@ -59,6 +59,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Summer
 - Submit your Week 3 Final Project Check-in on Google Classroom!
 ### Reminders:
 - RSVP for graduation [here](https://lu.ma/0fjpg7kj)!
+- Fill out the [post-program survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_a4cSK0VBHkxABds)!
 
 ---
 
