@@ -222,7 +222,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 1 </td>
-    <td><a href="https://docs.google.com/document/d/1c4HJrI0NznSH4pKzlHUjh5UmpzvB6r6ILuEHPCSY8BU/edit?usp=sharing">Final Project Doc</a><td>
+    <td><a href="">Final Project Doc</a></td>
   </tr>
 </table>
 
@@ -231,7 +231,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 2 </td>
-    <td><a href="https://docs.google.com/document/d/1c4HJrI0NznSH4pKzlHUjh5UmpzvB6r6ILuEHPCSY8BU/edit?usp=sharing">Final Project Doc</a></td>
+    <td><a href="">Final Project Doc</a></td>
   </tr>
 </table>
 
@@ -249,7 +249,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>ASYNCHRONOUS - CHECK ASYNC TIGER TEAM SCHEDULE ABOVE</td>
     <td><span class="label label-red">FINAL PROJECT</span> Week 4 </td>
-    <td><a href="">Final Project Doc</a>
+    <td><a href="">Final Project Doc</a></td>
   </tr>
   <tr>
     <td>Fri 12/19:</td>
