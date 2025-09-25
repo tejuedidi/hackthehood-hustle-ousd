@@ -63,7 +63,6 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 - Fill out the [pre-program survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2l9KKWcKOTbKObQ)!
 ---
 
-##(EDITING)
 ### Week 1
 <table>
   <tr>
@@ -75,13 +74,13 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
     <td>Wed 10/1:</td>
     <td><span class="label label-green">LECTURE</span> Using Tech for Social Justice + Stages of Software Development </td>
     <td><a href="">Using Tech for Social Justice Slides</a></td>
-    <td><a href="">Stages of SDLC Slides</a>
-    <td> Computer Science Quizizz </td>
+    <td><a href="">Stages of SDLC Slides</a></td>
+    <td>Computer Science Quizizz</td>
   </tr>
   <tr>
     <td>Thurs 10/2 or Sat 10/4:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team and Pre-Survey </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
   </tr>
 </table>
 
@@ -90,13 +89,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Mon 10/6:</td>
     <td><span class="label label-green">LECTURE</span> Getting Started with Python + Lab 1 Intro</td>
-    <a href="https://docs.google.com/presentation/d/1Wqapli_LkVw7gNNu_P0JAWKCpQmPOllFo9dYbIcas_w/edit?usp=drive_link">Getting Started with Python Slides</a>, Quizizz, <a href="https://docs.google.com/document/d/1mMb1TLVZ8AW8-Sg_QliXmAdzjFBVm3P37K1YmywDog4/edit?usp=drive_link">Lab 1</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1Wqapli_LkVw7gNNu_P0JAWKCpQmPOllFo9dYbIcas_w/edit?usp=drive_link">Getting Started with Python Slides</a>, Quizizz, <a href="https://docs.google.com/document/d/1mMb1TLVZ8AW8-Sg_QliXmAdzjFBVm3P37K1YmywDog4/edit?usp=drive_link">Lab 1</a></td>
   </tr>
   <tr>
     <td>Wed 10/8:</td>
     <td><span class="label label-green">LECTURE</span> <b>Identity Workshop: Rejecting the Binary</b> </td>
-    <a href="https://docs.google.com/presentation/d/1nez6t-QzL6MfQQsG1gCqdxMOUUyvEQxqp-sAxwYtGoA/edit?usp=drive_link">Rejecting the Binary Slides</a>,
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1nez6t-QzL6MfQQsG1gCqdxMOUUyvEQxqp-sAxwYtGoA/edit?usp=drive_link">Rejecting the Binary Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 10/9 or Sat 10/11:</td>
@@ -109,12 +107,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 <table>
   <tr>
     <td>Mon 10/13:</td>
-    <td><span class="label label-green">LECTURE</span>Indigenous People's Day - NO LECTURE </td>
+    <td><span class="label label-green">LECTURE</span> Indigenous People's Day - NO LECTURE </td>
   </tr>
   <tr>
     <td>Wed 10/15:</td>
     <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + Technical Benevolence </td>
-    <td><a href="https://docs.google.com/presentation/d/1YFhV7rapz0Vx8fQX6Z1TiZ7w9fDFfELRSRtlJEHpzWY/edit?usp=drive_link"> 2021 Technical Benevolence Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1YFhV7rapz0Vx8fQX6Z1TiZ7w9fDFfELRSRtlJEHpzWY/edit?usp=drive_link">2021 Technical Benevolence Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 10/16 or Sat 10/18:</td>
@@ -155,9 +153,9 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
     <td><a href ="">Lab 4</a></td>
   </tr>
   <tr>
-    <td>Thurs 10/30 or SaT 7/9:</td>
+    <td>Thurs 10/30 or Sat 7/9:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Review Colab + Understanding Errors </td>
-    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides,</a> Review Colab, <a href = "">Understanding Errors Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, Review Colab, <a href = "">Understanding Errors Slides</a></td>
   </tr>
 </table>
 
@@ -170,22 +168,23 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   </tr>
   <tr>
     <td>Wed 11/5:</td>
-    <td><span class="label label-green">LECTURE</span> Enviornment and Technology </td>
-    <td>Kahoot, <a href = ""> Enviornment and Technology</a></td>
+    <td><span class="label label-green">LECTURE</span> Environment and Technology </td>
+    <td>Kahoot, <a href = "https://docs.google.com/presentation/d/1oO1cYf78x0GdjSk5WsFow9nUjGA38A2Ai6aZeaT-_pI/edit?usp=drive_link">Environmental Tech Impact Slides</a></td>
   </tr>
-   <tr>
+  <tr>
     <td>Thurs 11/6 or Sat 11/8:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Party Invitations + Lab 4 </td>
-    <td><a href="https://docs.google.com/presentation/d/14CRENXtAtlVWYo0LB4OhPe-gN2Wd_HeWIsSIESXI8DE/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "">Lab 4</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Time Management </td>
+    <td><a href = "https://docs.google.com/presentation/d/1u4eTzZa2V8LR-D9mEDi-QxyI63fZ2g7h8sWi9J5ybdU/edit?usp=drive_link">SCRUM Slides</a>, <a href ="">Time Management Activity</a></td>
   </tr>
 </table>
+
 
 ### Week 7
 <table>
   <tr>
     <td>Mon 11/10:</td>
     <td><span class="label label-green">LECTURE</span> Data Driven Change + Computational Thinking</td>
-    <td>Kahoot, <a href = "">Data-Driven Change Advocacy Slides</a>,  <a href = "https://docs.google.com/document/d/1O_14_uqLSchNg0Dcfy_UxXhcqtkO_ZcFiJcZajSLBNc/edit?tab=t.0">Lab 7</a></td>
+    <td>Kahoot, <a href = "">Data‑Driven Change Advocacy Slides</a>, <a href = "https://docs.google.com/document/d/1O_14_uqLSchNg0Dcfy_UxXhcqtkO_ZcFiJcZajSLBNc/edit?tab=t.0">Lab 7</a></td>
   </tr>
   <tr>
     <td>Wed 11/12:</td>
