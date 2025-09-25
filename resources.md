@@ -8,11 +8,11 @@ nav_order: 3
 <table>
   <tr>
     <td>Zoom Meeting Link</td>
-    <td><a href="https://us06web.zoom.us/j/87204423433">Zoom Link</a></td>
+    <td><a href="https://us06web.zoom.us/j/89486008265">Zoom Link</a></td>
   </tr>
   <tr>
     <td>Google Classroom</td>
-    <td><a href="https://classroom.google.com/u/2/c/NzcyMTQ4NTUyMDgx">Google Classroom</a></td>
+    <td><a href="https://classroom.google.com/c/ODAxOTY5NjU4MDkw">Google Classroom (code: obsh4z76)</a></td>
   </tr>
   <tr>
     <td>Program Overview</td>
@@ -20,15 +20,15 @@ nav_order: 3
   </tr>
   <tr>
     <td>Student Handbook</td>
-    <td><a href="https://sites.google.com/hackthehood.org/hthsummer25/home/hustle?authuser=0">Hustle Student Handbook</a></td>
+    <td><a href="https://sites.google.com/hackthehood.org/fallprograms2025/contact?authuser=0">Hustle Student Handbook</a></td>
   </tr> 
   <tr>
     <td>Google Drive</td>
-    <td><a href="https://drive.google.com/drive/folders/1uWipFH6dDgpuXsyInAxM0j8rhB4KwoXe?usp=sharing">Curriculum Google Drive</a></td>
+    <td><a href="https://drive.google.com/drive/folders/10l0XCfV0HTlEIExkcoIDLR914hNjijpH?dmr=1&ec=wgc-drive-hero-goto">Curriculum Google Drive</a></td>
   </tr>
   <tr>
     <td>Pre-program survey for Hustle OUSD</td>
-    <td><a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_868cbkmwljABiSO">Pre-program survey</a></td>
+    <td><a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2l9KKWcKOTbKObQ">Pre-program survey</a></td>
   </tr>
 </table>
 ## Python Resources
