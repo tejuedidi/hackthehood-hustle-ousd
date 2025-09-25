@@ -36,9 +36,9 @@ Coding can be difficult but if you apply critical thinking, lean on your peers, 
 
 <table>
   <tr>
-    <td><b>Software Concept<b></td>
-    <td><b>Description<b></td>
-    <td><b>Related Skills<b></td>
+    <td><b>Software Concept</b></td>
+    <td><b>Description</b></td>
+    <td><b>Related Skills</b></td>
   </tr>
   <tr>
     <td>Intersectional Tech Identity</td>
@@ -83,5 +83,5 @@ Coding can be difficult but if you apply critical thinking, lean on your peers, 
     <td>Every developer has to learn how to debug code in order to write efficient programs. It's a complementary process to testing, which involves learning how an error affects a program overall. In addition to fixing bugs, debugging is an important skill for improving the efficiency of an application by optimizing performance and improving the logic. Debugging is a complex skill that takes time and practice for a developer to gain as a capability.</td>
     <td></td>
   </tr>
-  <tr> 
+  </tr> 
 </table>
