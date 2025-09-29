@@ -15,7 +15,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 **Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Jasmine Dortch (<a href="mailto:example@example.com">jasmine@hackthehood.org</a>)   
 **TA**: Elliot Sisk (<a href="mailto:example@example.com">elliot@hackthehood.org</a>)  
   
-## Tiger Team Schedule (EDITING COLOR)
+## Tiger Team Schedule
 <table>
   <tr>
     <td><b>Tiger Team Color</b></td>
@@ -93,7 +93,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   </tr>
   <tr>
     <td>Wed 10/8:</td>
-    <td><span class="label label-green">LECTURE</span> <b>Identity Workshop: Rejecting the Binary</b> </td>
+    <td><span class="label label-green">LECTURE</span>Identity Workshop: Rejecting the Binary</td>
     <td><a href="https://docs.google.com/presentation/d/107PFSQLd-Cn2vZnSYAJ7HFU0X-b6DHO2AZ5wgxSMH8k/edit?usp=sharing">Rejecting the Binary Slides</a>, <a href="https://docs.google.com/document/d/1jdot4uPwm6YFuRNtbN6_7_Cshof9wYxoAs1oKW-tmFY/edit?usp=sharing">Pseudocode Activity</a></td>
   </tr>
   <tr>
