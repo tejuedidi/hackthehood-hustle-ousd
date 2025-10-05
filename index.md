@@ -57,8 +57,8 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 
 ## Week 1 Announcements
 ### Assignments Due:
-- Course Materials: Make sure you have access to Google Classroom, Slack, and the course website!
-- Technical Materials: Make sure you have a GitHub account and VSCode, Python, and Git downloaded!
+- Course Materials: Make sure you have access to Google Classroom and Slack!
+- Technical Materials: Make sure you have VSCode, Python, and Git downloaded!
   
 ### Reminders:
 - Fill out the [pre-program survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2l9KKWcKOTbKObQ)!
@@ -70,17 +70,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Mon 9/29:</td>
     <td><span class="label label-green">LECTURE</span> Launch Day & Cohort Logistics and Set Up </td>
-    <td>Policies, Procedures, and Hello World</td>
+    <td><a href="https://docs.google.com/presentation/d/1I4G34A2dGmWQDSTsL_TvMn_XKbrALZIxyOvwBxsMZMY/edit?usp=sharing">Rubric, Policies, and Procedures</a>, <a href = "https://docs.google.com/presentation/d/1Vc4SC-ZxHrF0ytFLXBs-LqtZkXgU8Fv9Ed2BPIDIovo/edit?usp=sharing"> Hello World</a></td>
   </tr>
   <tr>
     <td>Wed 10/1:</td>
     <td><span class="label label-green">LECTURE</span> Tech for Social Justice + Software Development Life Cycle</td>
-    <td><a href="https://docs.google.com/presentation/d/1Bjn7moQAU-dvfB5mf3kXnaI5vGQJz_BVfqCp_h23OmM/edit?usp=sharing">Using Tech for Social Justice Slides</a>, <a href="https://docs.google.com/presentation/d/12_tGjB7JPtu2xMkjrsBTGmVDJp9xWhlzKH8qLQn5Zk8/edit?usp=sharing">Stages of SDLC Slides</a>, Computer Science Quizizz</td>
+    <td><a href="https://docs.google.com/presentation/d/1iNkrZ7GTMFAZaA60ulH7a077_SeBYjbNHqs6OnZZ5yY/edit?usp=sharing">SLIDES!</a> Using Tech for Social Justice <b>(Slides 15-27)</b>, Stages of SDLC <b>(Slides 28-38)</b>, Introduction to Computers <b>(Slides 39-59)</b>, Computer Science Quizizz</td>
   </tr>
   <tr>
     <td>Thurs 10/2 or Sat 10/4:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team</td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, Reminder to fill out Pre Program-Survey, <a href = "https://docs.google.com/document/d/1hxPBzIy9DqDEfXZusBAGN02g-c4XuBeH9KfnYrDpbjE/edit?usp=sharing">Lab 1: Installing Python and VS Code</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Meet Your Tiger Team</td> 
+    <td><a href="https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2l9KKWcKOTbKObQ">Reminder </a>to fill out Pre Program-Survey, <a href ="https://docs.google.com/presentation/d/1dxHL9TNSN5EgMXFTCHSG5FeMtBseqeHxaaXqFM0dRpM/edit?usp=sharing">SLIDES!</a>, <a href = "https://docs.google.com/document/d/1hxPBzIy9DqDEfXZusBAGN02g-c4XuBeH9KfnYrDpbjE/edit?usp=sharing">Lab 1: Installing Python and VS Code</a></td>
   </tr>
 </table>
 
@@ -89,17 +89,17 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Mon 10/6:</td>
     <td><span class="label label-green">LECTURE</span> Getting Started with Python </td>
-    <td>Pre Assessment Quiz<a href="">Getting Started with Python Slides</a>, Post Assessment Quiz</td>
+    <td>Pre Assessment Quiz, <a href="https://docs.google.com/presentation/d/1lnvnIeEIeQ-efXNQ93AHxIeKKIUst3Boj08rgGmOMCo/edit?usp=sharing">Variables and Data Types Slides</a>, Post Assessment Quiz, <a href="https://docs.google.com/document/d/1G1oAx5F5Sn2hf025ECIQmOkFBaW7ogtUEpk4BvSmcjA/edit?usp=sharing">Lab 2: Practicing Variables & Data Types</a></td>
   </tr>
   <tr>
     <td>Wed 10/8:</td>
-    <td><span class="label label-green">LECTURE</span>Identity Workshop: Rejecting the Binary</td>
-    <td><a href="https://docs.google.com/presentation/d/107PFSQLd-Cn2vZnSYAJ7HFU0X-b6DHO2AZ5wgxSMH8k/edit?usp=sharing">Rejecting the Binary Slides</a>, <a href="https://docs.google.com/document/d/1jdot4uPwm6YFuRNtbN6_7_Cshof9wYxoAs1oKW-tmFY/edit?usp=sharing">Pseudocode Activity</a></td>
+    <td><span class="label label-green">LECTURE</span> Identity Workshop, Rejecting the Binary, and Pseudocode</td>
+    <td><a href="https://docs.google.com/presentation/d/107PFSQLd-Cn2vZnSYAJ7HFU0X-b6DHO2AZ5wgxSMH8k/edit?usp=sharing](https://docs.google.com/presentation/d/107PFSQLd-Cn2vZnSYAJ7HFU0X-b6DHO2AZ5wgxSMH8k/edit?usp=sharing">Rejecting the Binary Slides</a>, <a href="https://docs.google.com/presentation/d/1T6ApKMLy132Pk37BBemtnzyEc9xy8g_cWdh0Faytazk/edit?usp=sharing">Pseudocode Slides</a>, <a href="https://docs.google.com/document/d/12Eo8zMw4DbYFicJnaPC9h6izC3-GxMG5cOpYJumlSN0/edit?usp=sharing">Pseudocode Activity</a></td>
   </tr>
   <tr>
     <td>Thurs 10/9 or Sat 10/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Practice with Variables and Data Structures </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/174i1XjSZj1-tLKVATpeNiBvrIyw-TcaMRCfEv8e5KzU/edit?usp=sharing">Slides!</a>, <a href="https://docs.google.com/document/d/12MmcR9JnHKVSdFjL8d0Ib0a2t_dy7VTbi25jgawZTsA/edit?usp=sharing">Practice some Code</a>, <a href="https://docs.google.com/document/d/1zAe47nVuAh2Hnc3fz3uWeyPz3XntnWFC1bEg_sqwrlM/edit?usp=sharing">User Input Lab</a></td>
   </tr>
 </table>
 
@@ -111,13 +111,13 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   </tr>
   <tr>
     <td>Wed 10/15:</td>
-    <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + Technical Benevolence </td>
-    <td><a href="https://docs.google.com/presentation/d/1YFhV7rapz0Vx8fQX6Z1TiZ7w9fDFfELRSRtlJEHpzWY/edit?usp=drive_link">2021 Technical Benevolence Slides</a></td>
+    <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + Data Structures </td>
+    <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Commonly Used Data Structures Slides</a>, <a href="https://docs.google.com/document/d/10NON_K-DSH-Fco-Y4wp4aSNnYGBArffuCQLxm3OlkEU/edit?usp=sharing">Working with Python Dictionaries</a>, <a href ="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=sharing">Lab 3: Practice with Data Structures</a></td>
   </tr>
   <tr>
     <td>Thurs 10/16 or Sat 10/18:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Kahoot + Functions </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a>, Kahoot</td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Technical Benevolence </td>
+    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">Technical Benevolence Slides</a></td>
   </tr>
 </table>
 
