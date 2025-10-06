@@ -13,7 +13,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 **<u>Lectures</u>:** Mondays (4:30 PM-7:00 PM) and Wednesdays (4:00 PM-6:30 PM)  
 **<u>Learning Labs</u>:** Wednesdays (6:30 PM-7:30 PM) <br/>
 **Instructors:** Teju Edidi (<a href="mailto:example@example.com">teju@hackthehood.org</a>), Jasmine Dortch (<a href="mailto:example@example.com">jasmine@hackthehood.org</a>)   
-**TA**: Elliot Sisk (<a href="mailto:example@example.com">elliot@hackthehood.org</a>)  
+**TA**: Elliott Sisk (<a href="mailto:example@example.com">elliott@hackthehood.org</a>)  
   
 ## Tiger Team Schedule
 <table>
