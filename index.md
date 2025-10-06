@@ -55,13 +55,15 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   </tr>
 </table>
 
-## Week 1 Announcements
+## Week 2 Announcements
 ### Assignments Due:
-- Course Materials: Make sure you have access to Google Classroom and Slack!
-- Technical Materials: Make sure you have VSCode, Python, and Git downloaded!
+- Turn in your introductory profile slide from Week 1!
+- Turn in Lab 2!
   
 ### Reminders:
 - Fill out the [pre-program survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2l9KKWcKOTbKObQ)!
+- Course Materials: Make sure you have access to Google Classroom and Slack!
+- Technical Materials: Make sure you have VSCode and Python downloaded!
 
 ---
 
@@ -99,7 +101,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Thurs 10/9 or Sat 10/11:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Practice with Variables and Data Structures </td>
-    <td><a href="https://docs.google.com/presentation/d/174i1XjSZj1-tLKVATpeNiBvrIyw-TcaMRCfEv8e5KzU/edit?usp=sharing">Slides!</a>, <a href="https://docs.google.com/document/d/12MmcR9JnHKVSdFjL8d0Ib0a2t_dy7VTbi25jgawZTsA/edit?usp=sharing">Practice some Code</a>, <a href="https://docs.google.com/document/d/1zAe47nVuAh2Hnc3fz3uWeyPz3XntnWFC1bEg_sqwrlM/edit?usp=sharing">User Input Lab</a></td>
+    <td><a href="https://docs.google.com/presentation/d/174i1XjSZj1-tLKVATpeNiBvrIyw-TcaMRCfEv8e5KzU/edit?usp=sharing">Slides!</a>, <a href="https://docs.google.com/document/d/12MmcR9JnHKVSdFjL8d0Ib0a2t_dy7VTbi25jgawZTsA/edit?usp=sharing">Practice some code</a>, <a href="https://docs.google.com/document/d/1zAe47nVuAh2Hnc3fz3uWeyPz3XntnWFC1bEg_sqwrlM/edit?usp=sharing">User Input Lab</a></td>
   </tr>
 </table>
 
@@ -112,12 +114,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Wed 10/15:</td>
     <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + Data Structures </td>
-    <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Commonly Used Data Structures Slides</a>, <a href="https://docs.google.com/document/d/10NON_K-DSH-Fco-Y4wp4aSNnYGBArffuCQLxm3OlkEU/edit?usp=sharing">Working with Python Dictionaries</a>, <a href ="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=sharing">Lab 3: Practice with Data Structures</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Commonly Used Data Structures Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 10/16 or Sat 10/18:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Technical Benevolence </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">Technical Benevolence Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1TviwR-RYyXdJU-tlc35ET8v7aCKrdcrNlw6E8AZ347U/edit?usp=sharing">Technical Benevolence Slides</a>, <a href="https://docs.google.com/document/d/10NON_K-DSH-Fco-Y4wp4aSNnYGBArffuCQLxm3OlkEU/edit?usp=sharing">Working with Python Dictionaries</a>, <a href ="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=sharing">Lab 3: Practice with Data Structures</a></td>
   </tr>
 </table>
 
@@ -136,7 +138,7 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Thurs 10/23 or Sat 10/25:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Check-Ins + Functions Cont. </td>
-    <td><a href="https://docs.google.com/presentation/d/1h3sxUjlMPgJzFVTq6ipNlzjYnNJy76ktXSIHjVUThi8/edit">SCRUM Slides</a> , <a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">CRUD Operations Activity</a></td>
+    <td><a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">CRUD Operations Activity</a></td>
   </tr>
 </table>
 
