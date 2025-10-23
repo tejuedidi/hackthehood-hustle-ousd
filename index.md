@@ -55,16 +55,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   </tr>
 </table>
 
-## Week 2 Announcements
+## Week 4 Announcements
 ### Assignments Due:
-- Turn in your introductory profile slide from Week 1!
-- Turn in Lab 2!
+- Turn in your Lab 4
   
 ### Reminders:
-- Fill out the [pre-program survey](https://corexmsp4sy8p6bphbs3.qualtrics.com/jfe/form/SV_2l9KKWcKOTbKObQ)!
-- Course Materials: Make sure you have access to Google Classroom and Slack!
-- Technical Materials: Make sure you have VSCode and Python downloaded!
-
+- Please complete any missing assignments!
 ---
 
 ### Week 1
@@ -114,12 +110,12 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   <tr>
     <td>Wed 10/15:</td>
     <td><span class="label label-green">LECTURE</span> Creating a Linkedin Profile + Data Structures </td>
-    <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Commonly Used Data Structures Slides</a></td>
+    <td><a href="https://docs.google.com/presentation/d/1OjAxqmFkzfmKo9oAmgE1TyRRCv20WUt3XhyNIYU4QEg/edit?usp=sharing">Commonly Used Data Structures Slides</a>, <a href="https://docs.google.com/document/d/1IpdUzpTIF00dNMBOu-6MpvMhinBqQtC0hKjfv9kmpTA/edit?usp=sharing">Lab 3: Practice w/ Data Structures</a></td>
   </tr>
   <tr>
     <td>Thurs 10/16 or Sat 10/18:</td>
     <td><span class="label label-yellow">TIGER TEAM</span> Technical Benevolence </td>
-    <td><a href="https://docs.google.com/presentation/d/1TviwR-RYyXdJU-tlc35ET8v7aCKrdcrNlw6E8AZ347U/edit?usp=sharing">Technical Benevolence Slides</a>, <a href="https://docs.google.com/document/d/10NON_K-DSH-Fco-Y4wp4aSNnYGBArffuCQLxm3OlkEU/edit?usp=sharing">Working with Python Dictionaries</a>, <a href ="https://docs.google.com/document/d/18dpl87x_bYM3MyqWlSHk3a75DdJ_6fzLcRVNVCyA2JM/edit?usp=sharing">Lab 3: Practice with Data Structures</a></td>
+    <td><a href = "https://docs.google.com/presentation/d/1wH-sqcD3DqZGuvPXo5vPRz_lmW8bOupgqGMUFE2Hois/edit?slide=id.g36a82a023a8_0_15#slide=id.g36a82a023a8_0_15">TT Slides</a>, <a href="https://docs.google.com/presentation/d/1TviwR-RYyXdJU-tlc35ET8v7aCKrdcrNlw6E8AZ347U/edit?usp=sharing">Technical Benevolence Slides</a>, Continue working on Lab 3</td>
   </tr>
 </table>
 
@@ -127,18 +123,18 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 <table>
   <tr>
     <td>Mon 10/20:</td>
-    <td><span class="label label-green">LECTURE</span> Digital Cookie Crumbs, Python Operators </td>
-    <td><a href="">Python Operator Slides</a> <a href="https://docs.google.com/document/d/1usollOl3mkJW4g1QT6B6xSTH78uRQhab05SIzptbjZU/edit?usp=sharing">Lab 4</a></td>
+    <td><span class="label label-green">LECTURE</span> Digital Cookie Crumbs, Python Operators and Conditionals</td>
+    <td><a href="https://docs.google.com/presentation/d/14aOMaTbFQmNaGKAUzR3jTENrzOYCt29Doj4FMWz7i4Y/edit?usp=sharing"> Digital Cookie Crumb (1-20) + Python Operator (21-28) + Conditionals Slides (29-35)</a></td>
   </tr>
   <tr>
     <td>Wed 10/22:</td>
-    <td><span class="label label-green">LECTURE</span> Identity Development Workshop: College Preparation, Planning and Success Panel </td>
-    <td><a href="">Python Functions Slides</a></td>
+    <td><span class="label label-green">LECTURE</span> Identity Development Workshop: College Preparation, Planning and Success Panel + Loops Introduction</td>
+    <td><a href="https://docs.google.com/presentation/d/1JUzae7i2K3hTczUDTIIRHuQknRmVEKLGxOcbgtLeuVU/edit?usp=sharing">Python Loops Slides</a></td>
   </tr>
   <tr>
     <td>Thurs 10/23 or Sat 10/25:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Check-Ins + Functions Cont. </td>
-    <td><a href="https://docs.google.com/document/d/1QGrS3-gpDMcu3P25caLpmh2cRx-qrkuwv1mXcmyo_MU/edit?usp=drive_link">CRUD Operations Activity</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> Check-Ins + Lab 4 </td>
+    <td><a href = "https://docs.google.com/presentation/d/1Lja5wB15MPJ-ZizpG27rBiYZ8nLuthL-Q0dbmZnuNsA/edit?usp=sharing">TT Slides</a>, <a href="https://docs.google.com/document/d/12QXzwliCQCwU_OCyYs0O4z8J0yoDDbPglEjiP6DDU8M/edit?usp=sharing">Lab 4: Practice w/ Loops</a></td>
   </tr>
 </table>
 
@@ -146,18 +142,19 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 <table>
   <tr>
     <td>Mon 10/27:</td>
-    <td><span class="label label-green">LECTURE</span> The Socio-Technical Challenges of AI: Bias, Fairness, Transparency, and Beyond + Python Iteration </td>
-    <td>Kahoot, <a href ="https://docs.google.com/presentation/d/1219Hnkxpk9ScqKuKLSGcQggiVK2Sdc3LmX7MqiZTdq4/edit">Understanding Errors Slides</a>, Kahoot, <a href = "https://docs.google.com/document/d/1O7qfCtiiN4krXHf3htByGXpl8vuVdxvd9vIpntRmmio/edit?usp=sharing">Lab 5</a></td>
+    <td><span class="label label-green">LECTURE</span> </td>
+    <td></td>
+    </td>
   </tr>
   <tr>
     <td>Wed 10/29:</td>
-    <td><span class="label label-green">LECTURE</span> Identity Development Workshop + Lab 4 </td>
-    <td><a href ="">Lab 4</a></td>
+    <td><span class="label label-green">LECTURE</span>  </td>
+    <td></td>
   </tr>
   <tr>
     <td>Thurs 10/30 or Sat 7/9:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Review Colab + Understanding Errors </td>
-    <td><a href="https://docs.google.com/presentation/d/1HlteMf22F7wg1JWc7cxlKsvAHgk3zUqC5QG5Ti9Vzts/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, Review Colab, <a href = "">Understanding Errors Slides</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> </td>
+    <td></td>
   </tr>
 </table>
 
@@ -165,18 +162,18 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 <table>
   <tr>
     <td>Mon 11/3:</td>
-    <td><span class="label label-green">LECTURE</span> Watched but Unseen + Object Oriented Programming </td>
-    <td>Kahoot, <a href = "https://docs.google.com/presentation/d/1CG3oQXSkzn-eFOC_k6IpBvGqg_k8R1vu5kL84FqqsRc/edit?slide=id.p#slide=id.p">2021 Watched but Unseen Slides</a>, <a href = "https://docs.google.com/presentation/d/1Y1GR2igMVVqA6WnI3xK_XZQq-Fo1GColbjSHYxus5d8/edit?slide=id.g125f38f1610_0_181#slide=id.g125f38f1610_0_181">Object Oriented Programming Slides</a></td>
+    <td><span class="label label-green">LECTURE</span> </td>
+    <td></td>
   </tr>
   <tr>
     <td>Wed 11/5:</td>
-    <td><span class="label label-green">LECTURE</span> Environment and Technology </td>
-    <td>Kahoot, <a href = "https://docs.google.com/presentation/d/1oO1cYf78x0GdjSk5WsFow9nUjGA38A2Ai6aZeaT-_pI/edit?usp=drive_link">Environmental Tech Impact Slides</a></td>
+    <td><span class="label label-green">LECTURE</span></td>
+    <td></td>
   </tr>
   <tr>
     <td>Thurs 11/6 or Sat 11/8:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Time Management </td>
-    <td><a href = "https://docs.google.com/presentation/d/1u4eTzZa2V8LR-D9mEDi-QxyI63fZ2g7h8sWi9J5ybdU/edit?usp=drive_link">SCRUM Slides</a>, <a href ="">Time Management Activity</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> </td>
+    <td></a></td>
   </tr>
 </table>
 
@@ -185,18 +182,18 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 <table>
   <tr>
     <td>Mon 11/10:</td>
-    <td><span class="label label-green">LECTURE</span> Data Driven Change + Computational Thinking</td>
-    <td>Kahoot, <a href = "">Data‑Driven Change Advocacy Slides</a>, <a href = "https://docs.google.com/document/d/1O_14_uqLSchNg0Dcfy_UxXhcqtkO_ZcFiJcZajSLBNc/edit?tab=t.0">Lab 7</a></td>
+    <td><span class="label label-green">LECTURE</span></td>
+    <td></td>
   </tr>
   <tr>
     <td>Wed 11/12:</td>
-    <td><span class="label label-green">LECTURE</span> Identity Development Workshop + Code Quality </td>
-    <td><a href= "">Code Quality Slides</a>, Superhero Battle Simulator Activity</td>
+    <td><span class="label label-green">LECTURE</span></td>
+    <td></td>
   </tr>
   <tr>
     <td>Thurs 11/13 or Sat 11/15:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Debugging: Code Error Clinic </td>
-    <td><a href="https://docs.google.com/presentation/d/1ecQmbAvW5TMz1tdJWLpvg5dbJ0F95i2MC_YHsWYXd04/edit?slide=id.p#slide=id.p">SCRUM Slides</a>, <a href = "">Code Error Clinic</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> </td>
+    <td></td>
   </tr>
 </table>
 
@@ -204,8 +201,8 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
 <table>
   <tr>
     <td>Mon 11/17:</td>
-    <td><span class="label label-green">LECTURE</span> Pre-Async Check-Ins + Missing Activities </td>
-    <td>Kahoot, Terminus Command Line Game</td>
+    <td><span class="label label-green">LECTURE</span> </td>
+    <td></td>
   </tr>
   <tr>
     <td>Wed 11/19:</td>
@@ -214,8 +211,8 @@ Welcome to the course website for Hack the Hood's Hustle OUSD Program for Fall 2
   </tr>
   <tr>
     <td>Thurs 11/20 or Sat 11/22:</td>
-    <td><span class="label label-yellow">TIGER TEAM</span> Capstone Prep (Python Guessing Game Group) </td>
-    <td><a href="https://docs.google.com/presentation/d/1B8glOEnS30eZl8wI8h6SfgVtJtC0XDqXfc_3ZbgEHZ4/edit?slide=id.p#slide=id.p">SCRUM Slides</a></td>
+    <td><span class="label label-yellow">TIGER TEAM</span> </td>
+    <td></td>
   </tr>
 </table>
 
